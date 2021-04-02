@@ -1,6 +1,3 @@
-# meal_recipes
-BY : O M A R - E L D E E B 
-
 
 # UI
 <img src = "ui/1.jpg" width ="100" heigh = "300">,
